@@ -7,7 +7,10 @@ public class Loginpage {
 	System.out.println("valid credentials");
 	
 	}
+	public void validusername(){
 	
-	
-	
+System.out.println("valid username");
+
+		
+	}
 }
