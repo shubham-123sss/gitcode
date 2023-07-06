@@ -7,7 +7,7 @@ public class Homepage {
 	
 	
 	}
+	public void homepage(){
 	
-	
-	
+	system.out.println("home)
 }
