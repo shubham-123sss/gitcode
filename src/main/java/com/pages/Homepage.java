@@ -9,5 +9,6 @@ public class Homepage {
 	}
 	public void homepage(){
 	
-	system.out.println("home)
+	System.out.println("home");
+}
 }
